@@ -26,7 +26,7 @@ Project aimed to classification of nedopal situations in steel production proces
 
 Внедерение на практике было предложено реализовать по схеме:
 
-<img src="https://github.com/buchacha/severstal_steel_nedopal_classification/blob/master/conclude.png" width="400" />
+<img src="https://github.com/buchacha/severstal_steel_nedopal_classification/blob/master/conclude.png" width="600" class="text-center" />
 
 [Ссылка на отзыв рецензента](РецензияКрасильников20.pdf)
 
