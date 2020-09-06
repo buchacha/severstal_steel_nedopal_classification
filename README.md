@@ -14,19 +14,19 @@ Project aimed to classification of nedopal situations in steel production proces
 
 Обработка изображения поступившего с камеры, используем цветовые пространства, как наиболее простую и наглядную модель
 
-<img src="https://github.com/buchacha/severstal_steel_nedopal_classification/blob/master/modification.png" width="400" />
+<img src="https://github.com/buchacha/severstal_steel_nedopal_classification/blob/master/modification.png" width="600" />
 
 Извлечение признаков для обучения модели, используем гистограмму яркости по трем каналам цветовой модели RGB
 
-<img src="https://github.com/buchacha/severstal_steel_nedopal_classification/blob/master/extraction.png" width="400" />
+<img src="https://github.com/buchacha/severstal_steel_nedopal_classification/blob/master/extraction.png" width="600" />
 
 Численный эксперимент, подтверждающий уместность и жизнеспособность приведенного решения поставленной задачи
 
-<img src="https://github.com/buchacha/severstal_steel_nedopal_classification/blob/master/result.png" width="400" />
+<img src="https://github.com/buchacha/severstal_steel_nedopal_classification/blob/master/result.png" width="600" />
 
 Внедерение на практике было предложено реализовать по схеме:
 
-<img src="https://github.com/buchacha/severstal_steel_nedopal_classification/blob/master/conclude.png" width="600" style="text-align:center"/>
+<img src="https://github.com/buchacha/severstal_steel_nedopal_classification/blob/master/conclude.png" width="400" />
 
 [Ссылка на отзыв рецензента](РецензияКрасильников20.pdf)
 
