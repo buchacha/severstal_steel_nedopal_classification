@@ -8,14 +8,26 @@ Project aimed to classification of nedopal situations in steel production proces
 **Задача**
 Моей задачей было исследовать подходы разработки систем промышлен- ного компьютерного зрения. Основная задача–создать систему виделконтроля производственных операций. Данная система должна отслеживать характери- стики загрузки сырья в контейнер горения на сталелитейном заводе. В данном исследовании рассматривается конкретная производственная ситуация, являю- щаяся промежуточным этапом выплавки стали. Так называемый «недопал» – ситуация при которой в контейнер загружено топливо с неправильным коксовым составом. Из-за этого производство останавливается, если вовремя не заметить ошибки.
 
-![Screenshot](Algorithm.png)
+Схема алгоритма для реализации на производстве:
 
-It must said that method not solve problem of fundamental ambiguity, therefore we needed to analyze some curves and choose right formula according to curve shape and ground truth:
+<img src="https://github.com/buchacha/severstal_steel_nedopal_classification/blob/master/scheme.png" width="400" />
 
-![Screenshot](parametres.png)
+Обработка изображения поступившего с камеры, используем цветовые пространства, как наиболее простую и наглядную модель
 
+<img src="https://github.com/buchacha/severstal_steel_nedopal_classification/blob/master/modification.png" width="400" />
 
-Also here is the photo of polarisation lense to better vision presentation of needed equipment
+Извлечение признаков для обучения модели, используем гистограмму яркости по трем каналам цветовой модели RGB
 
-![Screenshot](IMG_3760.JPG)
+<img src="https://github.com/buchacha/severstal_steel_nedopal_classification/blob/master/extraction.png" width="400" />
+
+Численный эксперимент, подтверждающий уместность и жизнеспособность приведенного решения поставленной задачи
+
+<img src="https://github.com/buchacha/severstal_steel_nedopal_classification/blob/master/result.png" width="400" />
+
+Внедерение на практике было предложено реализовать по схеме:
+
+<img src="https://github.com/buchacha/severstal_steel_nedopal_classification/blob/master/conclude.png" width="400" />
+
+[Ссылка на рецензию](РецензияКрасильников20.pdf)
+[Ссылка на отзыв научного руководителя](Отзыв_ВКР_Красильников.pdf)
 
