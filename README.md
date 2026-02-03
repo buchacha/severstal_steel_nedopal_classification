@@ -1,4 +1,6 @@
 # severstal_steel_nedopal_classification
+[Смотреть видео на YouTube](https://www.youtube.com/watch?v=KW1Ce2Ev-_g)
+
 Выпускная квалификационная работа по направлению "Прикладная информатика и информатика", СПбГУ, факультет прикладной матемтаики–процессов управления, кафедра компьютерного моделирования и многопроцессорных систем.
 
 Project aimed to classification of nedopal situations in steel production process. 
